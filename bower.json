@@ -1,0 +1,14 @@
+{
+  "name": "congress-images-102x125",
+  "version": "0.1.0",
+  "main": [
+    "i/*"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
