@@ -8,3 +8,4 @@ With `svn` and `mozjpeg` installed, run:
 
     fetch_images.sh
 
+[dockermozjpegdeb](https://github.com/magnetikonline/dockermozjpegdeb) is a useful project for generating a deb for `mozjpeg` where it is not availabe for your distro.
